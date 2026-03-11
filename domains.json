@@ -1,1 +1,12 @@
-["portal.csj.de", "portal-tut.clinictools.dev"]
+[
+    "portal.csj.de",
+    "portal-tut.clinictools.dev",
+    "portal-gut-hh.clinictools.dev",
+    "portal-gut-kb.clinictools.dev",
+    "portal-keb.clinictools.dev",
+    "portal-stb.clinictools.dev",
+    "portal-atk.clinictools.dev",
+    "portal.clinictools.dev",
+    "portal-dia.clinictools.dev",
+    "portal-csm.clinictools.dev"
+]
